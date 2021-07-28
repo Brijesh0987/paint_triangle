@@ -1,1 +1,1 @@
-# paint_triangle
+A simple paint app for making only triangle. lets users to draw Triangles on the canvas by clicking & dragging the mouse.Size of Triangles should depend on how much the user drags the mouse. Automatically fill each Triangle with a different color. A clear button that clears the canvas.
